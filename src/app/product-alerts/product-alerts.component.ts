@@ -8,5 +8,6 @@ import { products } from '../products';
   styleUrls: ['./product-alerts.component.css']
 })
 export class ProductAlertsComponent {
+ import { products } from '../products';
 
 }
